@@ -1,3 +1,11 @@
+# My Playlist
+    This project using Redux-toolkit for State management
+
+# Functionality of this project
+     * Add Movies/songs in playlist
+     * Remove particular Movies/songs in playlist
+     * Reset all
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
